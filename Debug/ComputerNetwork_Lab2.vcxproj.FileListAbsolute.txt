@@ -1,0 +1,2 @@
+D:\VsProj\ComputerNetwork_Lab2\Debug\ComputerNetwork_Lab2.exe
+D:\VsProj\ComputerNetwork_Lab2\Debug\ComputerNetwork_Lab2.pdb
